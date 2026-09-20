@@ -1,7 +1,7 @@
 {
-  "name": "Vanitoo",
+  "name": "Музыкальная студия АртЭнжой г.Хабаровск",
   "picture": "assets/img/devops-avatar.svg",
-  "bio": "DevOps engineer. Python automation, infrastructure, bots, monitoring and practical tools that make servers behave like adults.",
+  "bio": "Мы помогаем добавить больше музыки в вашу жизнь легче и интереснее. С нами можно попробовать - гитару, бас-гитура, электрогитару, укулеле, барабаны, вокал ",
   "meta": {
     "lang": "ru",
     "locale": "ru_RU",
@@ -29,11 +29,16 @@
     {"name":"Telegram","url":"https://t.me","icon":"TG"}
   ],
   "links": [
-    {"name":"GitHub","description":"Open-source projects and code","url":"https://github.com/vanitoo","type":"link"},
-    {"name":"Telegram","description":"Contact and updates","url":"https://t.me","type":"telegram"},
-    {"name":"DevOps projects","description":"Infrastructure, automation, bots","url":"https://github.com/vanitoo","type":"link"},
-    {"name":"Email","description":"Work and collaboration","url":"mailto:hello@example.com","type":"email"},
-    {"name":"Support","description":"Sponsor tools and experiments","url":"https://github.com/sponsors/vanitoo","type":"link"}
+    {
+    "name": "Позвонить нам",
+    "url": "tel:+7‒914‒204‒43‒87",
+    "type": "call"
+}
+    {"name":"Наш TG","description":"Contact and updates","url":"https://t.me","type":"telegram"},
+    {"name":"Мы на Яндекс.Картах","description":"Infrastructure, automation, bots","url":"https://2gis.ru/khabarovsk/inside/4926447747608868/firm/70000001066657942/135.060618%2C48.483315?m=135.058725%2C48.482041%2F17.89%2Fr%2F81.82","type":"link"},
+    {"name":"Мы в 2GIS","description":"Work and collaboration","url":"mailto:hello@example.com","type":"email"},
+    {"name":"Наш Instagram","description":"Sponsor tools and experiments","url":"https://www.instagram.com/artenjoy_studio?stkn=MXJ0bWRlZXM1aTNrZg==","type":"link"}
+    {"name":"Сообщество VK","description":"Sponsor tools and experiments","url":"https://vk.ru/27guitar","type":"link"}
   ],
   "theme":"matrix-terminal"
 }
